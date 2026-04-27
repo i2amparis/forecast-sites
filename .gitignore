@@ -16,3 +16,4 @@ output
 .coverage
 .ruff_cache
 .DS_Store
+.test
